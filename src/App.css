@@ -1,0 +1,15 @@
+td{
+    min-width: 100px;
+    border: 1px solid #eee;
+    padding: 5px 10px;
+}
+span{
+    background: #eee;
+    border: 1px solid #ccc;
+    padding: 4px 7px;
+    cursor: pointer;
+    margin: 1px;
+}
+span:hover{
+    background: #fff;
+}
